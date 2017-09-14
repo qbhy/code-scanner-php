@@ -1,0 +1,11 @@
+{
+    "name": "96qbhy/code-scanner",
+    "description": "扫码器",
+    "authors": [
+        {
+            "name": "96qbhy",
+            "email": "96qbhy@gmail.com"
+        }
+    ],
+    "require": {}
+}
