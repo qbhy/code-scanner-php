@@ -26,7 +26,7 @@ use Qbhy\CodeScanner\CodeScanner;
 
 var_dump(CodeScanner::scan('./bar.png'));
 ```
-> 目前只支持 mac 平台， windows 和 linux 等我编译好在添加。
+> 目前只支持 mac 和 linux 平台， windows 等我编译好在添加 `windows_scanner.exe`。
 
 [https://github.com/96qbhy/code-scanner-php](https://github.com/96qbhy/code-scanner-php)  
 96qbhy@gmail.com
